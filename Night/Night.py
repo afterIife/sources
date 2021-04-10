@@ -7,7 +7,7 @@ from pypresence import Presence
 client_id = '809140791330209823'
 RPC = Presence(client_id)
 RPC.connect()
-RPC.update(state='Attack Menu', details='Icy Nuker v1.0.0', large_image='night')
+RPC.update(state='Attack Menu', details='Night Nuker v1.0.0', large_image='night')
 
 def Clear():
     os.system('cls')
