@@ -1,0 +1,15 @@
+{
+	"Token": "",
+	"Prefix": "z",
+
+	"Channel-Names": ["abzino", "abzino"], 
+	"Server-Names": ["abzino", "abz"],
+	"Role-Names": ["abz", "abzino"],
+	"Reason": ["abz", "abz"],
+
+	"Spam": false,
+
+	"Webhook-Names": ["abzinozzz", "abzino was here"],
+	"Spam-Messages": ["", ""],
+	"Spam-Amount": 1000
+}
