@@ -1,4 +1,3 @@
-#cracked by icy
 import discord
 import time
 import requests
