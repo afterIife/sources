@@ -1,3 +1,4 @@
+#cracked by icy
 import discord
 import time
 import requests
@@ -14,11 +15,11 @@ client_id = '809140791330209823'
 RPC = Presence(client_id)
 RPC.connect()
 RPC.update(state='Attack Menu', details='Night Nuker v1.0.0', large_image='night')
-
+#cracked by icy
 def Clear():
     os.system('cls')
 
-
+#cracked by icy
 Clear()
 os.system('Title Night Authorization')
 os.system('mode 70, 30')
@@ -42,6 +43,7 @@ os.system('cls')
 def name():
     os.system('Title Night Nuker v1.0.0')
 
+#cracked by icy
 
 client = commands.Bot(';', self_bot=True)
 client.remove_command('help')
@@ -165,6 +167,7 @@ def banner():
 
     main_hud()
 
+#cracked by icy
 
 banner()
 client.run(token, bot=False)
