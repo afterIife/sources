@@ -1,0 +1,70 @@
+-------------
+HOW TO USE SETA " SELF BOT "
+-------------
+
+Required Pip Libraries
+~ time
+~ os
+~ discord
+-------------
+
+
+0. Extract The File
+
+
+1. Open Main .py in an IDE ( Visual Studio Code,Sublime,ect)
+
+
+2.  Scroll Down Until You See This (Line 34)
+
+
+#-----------------------#TOKEN
+
+
+global TOKEN
+TOKEN = "TOKEN HERE" # YOUR TOKEN GOES HERE
+
+
+#-----------------------#PREFIX
+
+3. Go To Line 34 // Now Where It Says TOKEN HERE BETWEEN TWO "" PASTE YOUR TOKEN IN THERE
+ 
+EXAMPLE:
+
+global TOKEN
+TOKEN = "F43-f32xxaKdnj&fHJ98fddd23" # YOUR TOKEN GOES HERE
+
+( IF YOU DONT KNOW HOW TO GET YOUR TOKEN WATCH THIS: https://www.youtube.com/watch?v=YEgFvgg7ZPI&ab_channel=GaugingGadgets )
+
+4. Save the save
+
+
+5. Now Run Main.py
+
+
+6. Done ( Use the discord command !help to get started )
+
+
+
+-------------
+Hosting the bot for free?
+-------------
+
+1. Go to the following website: https://replit.com/
+2. Now Sign Up ( you can use random info )
+3. Now Press Create New Repl And Set The Language To Python 
+4. Now Drag And Drop The Following files where main. py is on repl.it
+Drag These From The Folder The Self Bot Is In { Main.py and Keep_Alive.py } To Repl.it
+5. Now Hit Run On Repl.it ( Top Of The Screen ) ( Takes a couple mins to download libs so wait )
+6.Now It Should give you a link at the top where the code is being ran it should look something like this
+https://FishTypical.repl.run
+7. Copy The Link it Gives You
+8. Go To The following website : https://uptimerobot.com/
+9. Make An Account
+10. Press Add New Monitor
+11. Set The Monitor Type To HTTP(s)
+12. The Friendly Name Can Be Whatever You Want
+13. Where it says URL or IP Paste in the link repl.it gave you when you ran your code
+14. Monitor Interval Can Be The Deafult
+15. Press Create Monitor 
+16. Done Now Your Self Bot Is Online Forever
